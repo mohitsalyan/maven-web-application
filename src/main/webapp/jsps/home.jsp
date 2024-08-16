@@ -50,7 +50,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
 
-<p> Urvish Salyan </p>
+<p> anvi Salyan </p>
 
 </body>
 </html>
